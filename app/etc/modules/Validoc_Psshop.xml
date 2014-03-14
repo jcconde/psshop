@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Validoc_Psshop>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Validoc_Psshop>
+    </modules>
+</config>
